@@ -6,11 +6,11 @@ Benjamin
 
 ### Vie de la promo
 
-- [ ] Élire les délégués de la promo.
+- [x] Élire les délégués de la promo.
 
 ### Terminal
 
-- [ ] Faire le parcours [terminal tutor](https://www.terminaltutor.com/).
+- [x] Faire le parcours [terminal tutor](https://www.terminaltutor.com/).
 
 ### Git
 
