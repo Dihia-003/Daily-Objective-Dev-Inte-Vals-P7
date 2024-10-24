@@ -6,9 +6,9 @@ Benjamin
 
 ### Gitflow
 
-- [ ] Découvrir Gitflow
-  - [ ] Créer un cheat sheet sur Gitflow (en groupe)
+- [x] Découvrir Gitflow
+  - [x] Créer un cheat sheet sur Gitflow (en groupe)
 
 ---
 
-- [ ] Positionnement avec Grid (CSS Garden)
+- [x] Positionnement avec Grid (CSS Garden)
